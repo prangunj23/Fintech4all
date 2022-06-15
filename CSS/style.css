@@ -752,8 +752,8 @@ body {
   }
   .responsivehero {
     overflow-x: hidden !important;
-    width: 75%;
-    height: 75%;
+    width: 50%;
+    height: 50%;
   }
 }
 @media (max-width: 686px) {
