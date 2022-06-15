@@ -101,7 +101,7 @@ body {
 }
 .HeroPic {
   width: 270px;
-  height: 270px;
+  height: 300px;
 }
 .nav-item .nav-link::after {
   display: block;
