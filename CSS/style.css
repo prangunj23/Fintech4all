@@ -99,6 +99,10 @@ body {
   cursor: pointer;
   border-color: rgba(0, 0, 0, 0);
 }
+.HeroPic {
+  width: 50%;
+  height: 50%;
+}
 .nav-item .nav-link::after {
   display: block;
   background-color: black;
