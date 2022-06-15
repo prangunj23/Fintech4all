@@ -250,8 +250,9 @@ body {
 }
 /*** Hook Section ***/
 .hook-section {
-  height: 63%;
+  height: auto%;
   padding-top: 150px;
+  padding-bottom: 200px;
   text-align: center;
   background-color: #3755be;
   width: 100% !important;
