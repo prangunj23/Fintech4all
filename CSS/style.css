@@ -100,8 +100,8 @@ body {
   border-color: rgba(0, 0, 0, 0);
 }
 .HeroPic {
-  width: 50%;
-  height: 50%;
+  width: 270px;
+  height: 270px;
 }
 .nav-item .nav-link::after {
   display: block;
