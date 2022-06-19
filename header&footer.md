@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Home | FinTech4All &copy;</title>
@@ -81,10 +80,10 @@
     </nav>
     <!-- End Header -->
   </header>
+  </html>
   
   
-  
-  
+  <html>
   <section class="footer-section">
       <footer class="pb-4 bg-primary-3 text-light">
         <div class="container">
