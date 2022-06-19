@@ -1,4 +1,4 @@
-
+@media (max-width: 1920px) {
   /** Main **/
   body {
     width: 100%;
@@ -216,7 +216,7 @@
     height: 20%;
     width: 100%;
   }
-
+}
 /** Media Queries **/
 @media (max-width: 992px) {
   .aboutimage {
