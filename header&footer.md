@@ -1,5 +1,6 @@
 <html lang="en">
   <head>
+  <head>
     <title>Home | FinTech4All &copy;</title>
 
     <meta charset="UTF-8" />
@@ -33,7 +34,7 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.min.js"></script>
   </head>
-
+  
   <!-- Start Header -->
  <header>
     <!-- Announcement bar-->
@@ -80,6 +81,7 @@
     </nav>
     <!-- End Header -->
   </header>
+  </head>
   </html>
   
   
