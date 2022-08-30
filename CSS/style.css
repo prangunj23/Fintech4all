@@ -966,11 +966,20 @@ body {
   width: 55%;;
 }
 
+.diff {
+  margin-top: 8px;
+  vertical-align: middle;
+  height: auto;
+  width: 100%;
+}
+
 .column {
   flex: 33%;
   max-width: 33%;
   padding: 0 4px;
 }
+
+
 
 .column .img {
   margin-top: 8px;
@@ -978,11 +987,15 @@ body {
   width: 100%;
 }
 
+
+
 @media screen and (max-width: 800px) {
   .column {
     flex: 50%;
     max-width: 50%;
   }
+  
+  
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
@@ -991,4 +1004,6 @@ body {
     flex: 100%;
     max-width: 100%;
   }
+  
+  
 }
