@@ -881,6 +881,8 @@ body {
   .partners {
     display: none;
   }
+  
+  
 }
 @media (max-width: 516px) {
   [data-aos="heroimg"] {
