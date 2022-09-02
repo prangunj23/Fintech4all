@@ -878,6 +878,9 @@ body {
   .hookheader {
     font-size: 28px;
   }
+  .partners {
+    display: none;
+  }
 }
 @media (max-width: 516px) {
   [data-aos="heroimg"] {
@@ -986,9 +989,21 @@ body {
   vertical-align: middle;
   width: 100%;
 }
-
-
-
+.bny {
+  width: 25%;
+  padding: 50px;
+}
+.dcrac {
+  width: 25%;
+}
+.teen {
+  width: 25%;
+}
+.partners {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 @media screen and (max-width: 800px) {
   .column {
     flex: 50%;
